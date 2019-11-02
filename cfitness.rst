@@ -2483,7 +2483,7 @@ effective ways to do this:
    has nothing to say! The mind becomes silent as a church. Do this as
    many times as you need to until the mind becomes still.
 2. Repeat to yourself silently or aloud, “I wonder what my next thought
-   will be.” [*This highly effective practice comes from Eckhart Tolle's
+   will be.” [This highly effective practice comes from Eckhart Tolle's
    *The Power of Now*.] Watch your mind the way a cat would watch a
    mousehole, alert to the exact moment the mouse (a thought) peeks its
    head out of the hole. By directly and continuously objectifying
