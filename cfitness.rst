@@ -2053,7 +2053,7 @@ Sitting is effortless at this stage, and meditators tend to see their
 daily hours of formal practice spike upward. It is not unusual for
 someone in the throws of the A&P to sit for several hours a day. For a
 few days around the attainment of the fourth insight knowledge, all is
-right with the universe.The secular yogi feels enlightened, the
+right with the universe. The secular yogi feels enlightened, the
 religious yogi feels touched by God, and both expect to live out the
 rest of their lives at the crest of this infinite wave.
 
