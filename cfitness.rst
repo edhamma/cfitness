@@ -1865,7 +1865,7 @@ stabilize, and then resolve.
 5. Consolidation and Resolution. Includes the 11th insight knowledge,
    Knowledge of Equanimity, the 12th through 16th insight knowledges,
    including Path and Fruition, all five of which are said to happen in
-   one mome, and the 17th insight knowledge,
+   one moment, and the 17th insight knowledge,
    Review.
 
 Even though not everyone will recognize all of the stages or experience
