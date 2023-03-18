@@ -1,13 +1,20 @@
 
-Contemplative Fitness (work in progress!)
+Contemplative Fitness (unfinished)
 =========================================
 
-Kenneth Folk © 2013, All Rights Reserved
+.. only:: not latex
 
-This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/eudoxos/cfitness>`__.
+   .. note:: 
 
-Contents
---------
+      Kenneth Folk © 2013, All Rights Reserved
+
+      This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/eudoxos/cfitness>`__.
+
+
+.. only:: html
+
+   Contents
+   --------
 
 .. toctree::
    :numbered:

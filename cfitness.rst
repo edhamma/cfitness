@@ -471,7 +471,7 @@ he had it. Or at least that he had some significant amount of it, and
 was working towards getting more of it. (Purists, don't despair at the
 irony of *getting* enlightenment as though it were a side of bacon in
 the butcher shop window. We’ll discuss the pros and cons of
-“`spiritual materialism <http://www.amazon.com/Cutting-Through-Spiritual-Materialism-Chogyam/dp/1570629579>`__“
+“`spiritual materialism <https://www.amazon.com/Cutting-Through-Spiritual-Materialism-Chogyam/dp/1570629579>`__“
 in a later section. For now, suffice to say that it was precisely the
 clarity of language made possible by the acquisitive approach to
 awakening that made it possible for me to jump in with both feet.)
@@ -2685,8 +2685,8 @@ Question:
     explains the initial run-up to stream entry. I relate well to your
     explanation of a yogi's practice and how it changes after achieving
     stream entry. In MCTB
-    [http://www.amazon.com/Mastering-Core-Teachings-Buddha-Unusually/dp/1904658
-    407] Daniel Ingram makes reference to the part concentration plays
+    [https://www.amazon.com/Mastering-Core-Teachings-Buddha-Unusually/dp/1904658407]
+    Daniel Ingram makes reference to the part concentration plays
     in recognizing progress and he explains that a person with less
     concentration (attention?) will be less clued in to where they are
     and what's going on. Your description below hints at the same kind
@@ -3409,9 +3409,18 @@ The five senses are seeing, hearing, touching, tasting, and smelling.
 Here is a one-minute video demonstrating the technique:
 
 
+.. raw:: latex
+
+   \begin{center}
+
 .. image:: 3vBmNlJ0O7I.jpg
-   :target: http://www.youtube.com/watch?v=3vBmNlJ0O7I
+   :target: https://www.youtube.com/watch?v=3vBmNlJ0O7I
    :width: 50%
+
+.. raw:: latex
+
+      \url{https://www.youtube.com/watch?v=3vBmNlJ0O7I}
+   \end{center}
 
 
 Noting with 6 Senses

@@ -43,6 +43,7 @@ except subprocess.CalledProcessError:
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinxcontrib.fulltoc',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -62,7 +63,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -109,31 +110,99 @@ html_static_path = [] # '_static']
 
 # -- Options for LaTeX output ------------------------------------------------
 
+latex_maketitle=r'''
+\makeatletter%
+\hypersetup{pdfauthor={\@author}, pdftitle={\@title}}%
+\makeatother%
+\begin{titlepage}%
+    \vspace*{\baselineskip}
+    \vfill
+    \hbox{%
+        \hspace*{0.15\textwidth}%
+        \rule{1pt}{.95\textheight}
+        \hspace*{0.05\textwidth}%
+        \parbox[b]{0.8\textwidth}{
+            \vbox to.95\textheight{%
+                \vspace{.05\textheight}
+                {
+                    \noindent\Huge\bfseries Contemplative
+                    \\[0.5\baselineskip]
+                    Fitness
+                }
+                \\[4\baselineskip]
+                {\Large\emph{Kenneth Folk}}\par
+                \vfill % space{0.3\textheight}
+                Other formats (PDF, HTML, ePub, …) available from \href{https://github.com/eudoxos/cfitness}{github.com/eudoxos/cfitness}.
+                \\[\baselineskip]
+                {\noindent Revision \releasename, built \today.}
+                \\[\baselineskip]
+                \emph{Kenneth Folk © 2013, All Rights Reserved.}
+            }% end of vbox
+        }% end of parbox
+    }% end of hbox
+    \vfill
+\end{titlepage}
+'''
+
+latex_engine='lualatex'
+
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    # 'papersize': 'letterpaper',
+    'releasename':release,
+    'papersize': 'a5paper',
 
-    # The font size ('10pt', '11pt' or '12pt').
-    #
     # 'pointsize': '10pt',
-
     # Additional stuff for the LaTeX preamble.
-    #
-    # 'preamble': '',
+    'preamble': r'''
+        \usepackage{emptypage}
+        \usepackage{titling}
+        \makeatletter
+        \fancypagestyle{normal}{
+          \fancyhf{}
+          \fancyfoot[LE,RO]{\thepage}
+          \fancyfoot[RE,LO]{}
+          \fancyhead[RE]{\releasename}
+          \fancyhead[LE]{\@title}
+          \fancyhead[RO]{\emph{\leftmark}}
+          \renewcommand{\headrulewidth}{0.4pt}
+          \renewcommand{\footrulewidth}{0pt}
+        }
+        \fancypagestyle{plain}{
+          \renewcommand{\footrulewidth}{0pt}
+          \fancyhead{}
+          \renewcommand{\headrulewidth}{0pt}
+        }
+        \makeatother
+        \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+        \usepackage[numbered]{bookmark}
+    ''',
+    'fncychap':'',
+    'sphinxsetup':r'''
+        HeaderFamily=\bfseries,
+        TitleColor={rgb}{0,0,0},
+        InnerLinkColor={rgb}{0,0,0},
+        hmargin={1.5cm,2cm},
+        vmargin={2cm,2cm},
+    ''',
+    'fontpkg':r'\usepackage{fontspec}\setmainfont{TeX Gyre Pagella}',
+    'maketitle':latex_maketitle,
 
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
 }
 
+
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'ContemplativeFitness.tex', 'Contemplative Fitness',
-     'Kenneth Folk', 'manual'),
+     'Kenneth Folk', 'book'),
 ]
+latex_toplevel_sectioning='chapter'
+
 
 
 
