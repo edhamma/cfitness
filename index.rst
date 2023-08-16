@@ -17,6 +17,11 @@ Contemplative Fitness (unfinished)
    --------
 
 .. toctree::
+   :hidden:
+   
+   Jhana and Ñana.rst
+   
+.. toctree::
    :numbered:
 
    cfitness.rst
