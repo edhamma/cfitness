@@ -2374,8 +2374,9 @@ disappear as soon as they arise. Things are as they are, and life is
 good. But the yogi will have to relearn the art of concentration.
 
 One way to understand what is happening here is to hearken back to the
-phases of *chicken herding*. [*Editor's note: let's relink this to the
-chicken herding essay on the new site. - KF*] In order to master the
+phases of `chicken herding <https://github.com/marcdhansen/cfitness/blob/master/Jhana+and+%C3%91ana.rst>`. 
+[*Editor's note: let's relink this to the chicken herding essay on 
+the new site. - KF*] In order to master the
 equanimity ñana, the yogi has to completely develop the fifth and final
 phase of chicken herding. In this phase, the chicken herder has become
 one with the flock and is aware of the entire barnyard all at once. This
