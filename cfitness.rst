@@ -2374,7 +2374,7 @@ disappear as soon as they arise. Things are as they are, and life is
 good. But the yogi will have to relearn the art of concentration.
 
 One way to understand what is happening here is to hearken back to the
-phases of `chicken herding <https://github.com/marcdhansen/cfitness/html/Jhana%20and%20%C3%91ana.html>`_. 
+phases of `chicken herding <https://github.com/eudoxos/cfitness/html/Jhana%20and%20%C3%91ana.html>`_. 
 [*Editor's note: let's relink this to the chicken herding essay on 
 the new site. - KF*] In order to master the
 equanimity ñana, the yogi has to completely develop the fifth and final
