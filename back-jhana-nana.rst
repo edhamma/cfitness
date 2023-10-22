@@ -1,8 +1,9 @@
 Jhana and Ñana
---------------
+================
 
-Jhana and Ñana, by Kenneth Folk
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(January 2009)
+
+.. _chicken-herding:
 
 Five phases of concentration
 ----------------------------
@@ -258,22 +259,22 @@ stratum using the investigative technique of vipassana results in the
 first insight knowledge, Knowledge of Mind and Body. Below is a list of 
 all 16 ñanas, along with their corresponding jhanas:
 
-#. ñana: Mind and Body (corresponds to 1st jhana) 
-#. ñana: Cause and Effect 
-#. ñana: Three Characteristics 
-#. ñana: Arising and Passing (corresponds to 2nd jhana) 
-#. ñana: Dissolution (corresponds to 3rd jhana) 
-#. ñana: Fear 
-#. ñana: Misery 
-#. ñana: Disgust 
-#. ñana: Desire for Deliverance
-#. ñana: Re-observation 
-#. ñana: Equanimity (corresponds to 4th jhana) 
-#. ñana: Adaptation (one-time event) 
-#. ñana: Change of Lineage (one-time event) 
-#. ñana: Path (one-time event) 
-#. ñana: Fruition (corresponds to cessation, not considered a jhana) 
-#. ñana: Review
+1. ñana: Mind and Body (corresponds to 1st jhana) 
+2. ñana: Cause and Effect 
+3. ñana: Three Characteristics 
+4. ñana: Arising and Passing (corresponds to 2nd jhana) 
+5. ñana: Dissolution (corresponds to 3rd jhana) 
+6. ñana: Fear 
+7. ñana: Misery 
+8. ñana: Disgust 
+9. ñana: Desire for Deliverance
+10. ñana: Re-observation 
+11. ñana: Equanimity (corresponds to 4th jhana) 
+12. ñana: Adaptation (one-time event) 
+13. ñana: Change of Lineage (one-time event) 
+14. ñana: Path (one-time event) 
+15. ñana: Fruition (corresponds to cessation, not considered a jhana) 
+16. ñana: Review
 
 
 Notice that only four of the 16 ñanas have corresponding jhanas. (The 
@@ -345,7 +346,3 @@ mechanistic process. Nevertheless, such is the situation as I see it. In
 any case, the subjective experience is far from dry, and there is no 
 need to abandon the infinitely mysterious non-dual practice while 
 developing the jhanas.
-
-Kenneth Folk
-
-January 2009
