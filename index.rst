@@ -24,13 +24,18 @@ Contemplative Fitness (unfinished)
    \bgroup
    \def\thesection{\arabic{section} }
 
+.. toctree::
+
+   front-intro.rst
 
 .. toctree::
    :numbered:
 
-   front-intro.rst
    main-1.rst
    main-2.rst
    main-3.rst
+
+.. toctree::
+
    back-glossary.rst
    back-jhana-nana.rst
