@@ -8,7 +8,7 @@ Contemplative Fitness (unfinished)
 
       Kenneth Folk © 2013, All Rights Reserved
 
-      This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/eudoxos/cfitness>`__.
+      This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/edhamma/cfitness>`__.
 
 
 .. only:: html

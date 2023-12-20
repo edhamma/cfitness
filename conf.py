@@ -132,7 +132,7 @@ latex_maketitle=r'''
                 \\[4\baselineskip]
                 {\Large\emph{Kenneth Folk}}\par
                 \vfill % space{0.3\textheight}
-                Other formats (PDF, HTML, ePub, …) available from \href{https://github.com/eudoxos/cfitness}{github.com/eudoxos/cfitness}.
+                Other formats (PDF, HTML, ePub, …) available from \href{https://github.com/edhamma/cfitness}{github.com/edhamma/cfitness}.
                 \\[\baselineskip]
                 {\noindent Revision \releasename, built \today.}
                 \\[\baselineskip]
@@ -217,7 +217,7 @@ epub_language='en'
 epub_basename='kenneth-folk-contemplative-fitness'
 epub_use_index=False
 epub_scheme='URL'
-epub_identifier = 'https://eudoxos.github.io/cfitness/'
+epub_identifier = 'https://edhamma.github.io/cfitness/'
 # A unique identification for the text.
 epub_uid = 'kenneth-folk-contemplative-fitness'
 
