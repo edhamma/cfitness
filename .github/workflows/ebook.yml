@@ -9,7 +9,7 @@ jobs:
       - name: Install deps 🛒
         run: |
           sudo apt-get update && sudo apt-get install texlive-latex-recommended texlive-latex-extra texlive-luatex fonts-texgyre latexmk
-          pip install sphinx sphinxcontrib-fulltoc
+          pip install sphinx sphinx-book-theme
       - name: Build E-Books 🔧
         run: |
           make html
