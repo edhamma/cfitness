@@ -1246,7 +1246,7 @@ inspection. This is where the yogi really gets a feel for what vipassana
 is all about, as she effortlessly deconstructs each thought and
 sensation that appears. In high equanimity, the mind is unwilling to
 reach out to any object. It doesn't move toward pleasant objects or away
-from unpleasant objects. This is what makes if possible to sit for long
+from unpleasant objects. This is what makes it possible to sit for long
 periods of time; when pleasant is not favored over unpleasant, there is
 no particular reason to get up.
 
