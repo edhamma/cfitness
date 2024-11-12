@@ -391,7 +391,7 @@ book). I sensed progress in my meditation practice throughout this time,
 but I had the distinct feeling that I was missing something and that my
 practice was inefficient.
 
-When I met Bill Hamilton in 1990, he told be about the Theravada
+When I met Bill Hamilton in 1990, he told me about the Theravada
 Buddhist four paths of enlightenment and the Progress of Insight map.
 During this time, I also learned that according to the Pali suttas, the
 dying words of the Buddha were “appamadhena sampadetha,” which means
