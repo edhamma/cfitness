@@ -150,7 +150,7 @@ meditators available in books and online forums.
 Before I present a side-by-side comparison of two competing models of
 arahatship, we might reasonably ask whether a stage model of
 contemplative development has any value at all. I believe it does.
-Humans learn best when they are given discreet goals and regular
+Humans learn best when they are given discrete goals and regular
 assessments of progress. I have heard the protestations of those who
 believe that meditation must never be a goal-oriented activity, and that
 this holy truth renders all stage models either counterproductive or
