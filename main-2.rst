@@ -1718,7 +1718,7 @@ that it is noticing, and hence will never become enlightened; among the
 inhabitants of this planet, the ability to balance mindfulness and
 concentration is probably unique to humans.
 
-It is a truism in Buddist theory that concentration alone will never
+It is a truism in Buddhist theory that concentration alone will never
 lead to awakening. In the Mahasi tradition, monks can wax positively
 derisive about people who sit around for hours in highly concentrated
 states but never investigate the objects of attention. These theoretical
