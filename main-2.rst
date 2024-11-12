@@ -1673,7 +1673,7 @@ embarrassingly incomplete summary made possible by the extraordinary
 human powers of pattern recognition. The map will help you orient
 yourself, normalize your experience, and find motivation to practice.
 But your experience will be uniquely your own, rich and complex beyond
-imagining, and ultimately impervious to even the most sophisticated
+imagination, and ultimately impervious to even the most sophisticated
 efforts at cartography. One of the last things Bill Hamilton said to me
 while on his death bed in a Seattle hospital in 1999 was, “All maps
 eventually fail.”
