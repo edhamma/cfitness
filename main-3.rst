@@ -38,9 +38,9 @@ First Gear:
    the notion that there is any “you” at all.
 
 4. Objectify thoughts.
-   Categorize them: planning thought, anticipating thought, worrying
+   Categorize them: “Planning thought, anticipating thought, worrying
    thought, imaging thought, remembering thought, rehearsing thought,
-   scenario spinning thought, fantasy thought, self-recrimination thought.
+   scenario spinning thought, fantasy thought, self-recrimination thought.”
    Come up with your own vocabulary and see your thoughts as though they
    belonged to someone else. The content of your thoughts is not relevant
    except to the extent that it helps you to label and therefore objectify
