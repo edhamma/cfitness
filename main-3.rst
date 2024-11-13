@@ -33,7 +33,7 @@ First Gear:
    aversion, desire, disgust, fear, worry, calm, embarrassment, shame,
    self-pity, compassion, love, contentment, dullness, sleepiness, bliss,
    exhilaration, triumph, self-loathing.” Name them and be free. These mind
-   states are not “you;” if there is a “you” it must the one who is
+   states are not “you;” if there is a “you” it must be the one who is
    looking, rather than what is being looked at. Below, we will challenge
    the notion that there is any “you” at all.
 
@@ -161,7 +161,7 @@ After completing this course, you will be able to:
 * Recognize, navigate, and objectify a variety of mind states. 
 * Access 20 strata of mind, including the Insight Knowledges from the Progress of Insight and thirteen jhanas (altered states of consciousness brought about by meditative absorption). 
 * Practice meditation interactively with other people. 
-* See your experience as process, at least some of the time.
+* See your experience as a process, at least some of the time.
 
 Trajectory of the course
 
@@ -181,7 +181,7 @@ Trajectory of the course
    experience from a dispassionate point of view.
 -  See through the Witness by investigating it or letting it run its
    course to scaffold 3rd gear
--  You’ve learned to see your life as process.
+-  You’ve learned to see your life as a process.
 -  You’ve leveled the playing field and learned that there is no
    ultimate state; there are many lenses or perspectives of equal
    status.
@@ -194,7 +194,7 @@ Three Basic Skills
 
 To understand the difference between perceptual acuity and perceptual
 resolution, imagine watching a movie. Higher acuity relates to clarity
-and sharpness. With high acuity, can see the images more clearly, see
+and sharpness. With high acuity, you can see the images more clearly, see
 the colors as rich and saturated, and see what the figures in the movie
 are doing in great detail.
 
