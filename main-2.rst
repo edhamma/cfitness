@@ -150,7 +150,7 @@ meditators available in books and online forums.
 Before I present a side-by-side comparison of two competing models of
 arahatship, we might reasonably ask whether a stage model of
 contemplative development has any value at all. I believe it does.
-Humans learn best when they are given discreet goals and regular
+Humans learn best when they are given discrete goals and regular
 assessments of progress. I have heard the protestations of those who
 believe that meditation must never be a goal-oriented activity, and that
 this holy truth renders all stage models either counterproductive or
@@ -1140,7 +1140,7 @@ interesting, but there is also more potential for distraction. This
 potential for distraction has to be balanced by corresponding increases
 in your skill at concentration, which set the stage for yet another
 change in perceptual threshold, and so on. Think of it as an ongoing
-process rather than a discreet goal with a fixed end point, and be
+process rather than a discrete goal with a fixed end point, and be
 prepared to keep pushing this edge of development throughout your life.
 
 During any meditation sitting, there are moments when the monkey-mind
@@ -1357,7 +1357,7 @@ which somehow resets the clock and completes the cycle. Fruition is
 technically the 16th insight knowledge, and we’ll preserve that
 numbering system, although I will gloss over insight knowledges 12-15,
 understanding them as theoretical structures intended to explain changes
-the yogi will notice after the fact as opposed to discreet stages the
+the yogi will notice after the fact as opposed to discrete stages the
 yogi experiences is real time as they occur. In fact, the yogi, by
 definition, experiences nothing whatsoever during the momentary blip
 that is the Path and Fruition moment.
