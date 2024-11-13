@@ -1,0 +1,58 @@
+\selectlanguage *{english}
+\contentsline {chapter}{Introduction}{i}{chapter*.3}%
+\contentsline {section}{\numberline {1 }The physical fitness revolution}{ii}{section.0.1}%
+\contentsline {part}{I\hspace {1em}Book One: Kenneth’s Story}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}The Setup}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Bill Hamilton}{9}{chapter.2}%
+\contentsline {chapter}{\numberline {3}First Long Retreats}{13}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Alaska}{21}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Deeper Into Jhana}{25}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Third Path}{29}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Disillusionment}{31}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Off the Ride}{33}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Full Circle}{37}{chapter.9}%
+\contentsline {part}{II\hspace {1em}Book Two: Theory}{39}{part.2}%
+\contentsline {chapter}{\numberline {10}Watering Down the Dharma}{41}{chapter.10}%
+\contentsline {section}{\numberline {10.1}The Pragmatic Model of Arahatship}{45}{section.10.1}%
+\contentsline {section}{\numberline {10.2}The Saint Model of Arahatship}{45}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Comparing the models}{46}{section.10.3}%
+\contentsline {section}{\numberline {10.4}The Hercules Effect: Why “watering down” a high standard might be a good idea}{46}{section.10.4}%
+\contentsline {chapter}{\numberline {11}Fluency with the the Ladder of Abstraction}{49}{chapter.11}%
+\contentsline {chapter}{\numberline {12}The three speed transmission}{51}{chapter.12}%
+\contentsline {chapter}{\numberline {13}The progress of insight map}{59}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Knowledge of Mind and Body (Stage 1)}{60}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Knowledge of Cause and Effect (Stage 2)}{62}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Knowledge of the Three Characteristics (Stage 3)}{62}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Knowledge of the Arising and Passing away of Phenomena (Stage 4)}{64}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Knowledge of Dissolution (Stage 5)}{65}{section.13.5}%
+\contentsline {section}{\numberline {13.6}The Dukkha Ñanas}{66}{section.13.6}%
+\contentsline {subsection}{\numberline {13.6.1}Knowledge of Fear (Stage 6)}{67}{subsection.13.6.1}%
+\contentsline {subsection}{\numberline {13.6.2}Knowledge of Misery (Stage 7)}{68}{subsection.13.6.2}%
+\contentsline {subsection}{\numberline {13.6.3}Knowledge of Disgust (Stage 8)}{68}{subsection.13.6.3}%
+\contentsline {subsection}{\numberline {13.6.4}Knowledge of Desire for Deliverance (Stage 9)}{68}{subsection.13.6.4}%
+\contentsline {subsection}{\numberline {13.6.5}Knowledge of Re\sphinxhyphen {}Observation (Stage 10)}{69}{subsection.13.6.5}%
+\contentsline {section}{\numberline {13.7}Knowledge of Equanimity (Stage 11)}{70}{section.13.7}%
+\contentsline {subsection}{\numberline {13.7.1}Low Equanimity}{71}{subsection.13.7.1}%
+\contentsline {subsection}{\numberline {13.7.2}Mid Equanimity}{71}{subsection.13.7.2}%
+\contentsline {subsection}{\numberline {13.7.3}High Equanimity}{75}{subsection.13.7.3}%
+\contentsline {section}{\numberline {13.8}Path and Fruition}{76}{section.13.8}%
+\contentsline {subsection}{\numberline {13.8.1}Stages 12\sphinxhyphen {}16}{77}{subsection.13.8.1}%
+\contentsline {section}{\numberline {13.9}Knowledge of Review}{79}{section.13.9}%
+\contentsline {chapter}{\numberline {14}The map is not the territory}{85}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Concentration, Mindfulness, and Investigation}{89}{chapter.15}%
+\contentsline {part}{III\hspace {1em}Book Three: Method}{93}{part.3}%
+\contentsline {chapter}{\numberline {16}Quick Start Guide}{95}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Introduction to the Method}{97}{chapter.17}%
+\contentsline {chapter}{\numberline {18}Course Objectives}{101}{chapter.18}%
+\contentsline {chapter}{\numberline {19}Unit 1: Get Stream Entry}{105}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Introduction to Stream Entry}{105}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Introduction to Noting Meditation}{107}{section.19.2}%
+\contentsline {section}{\numberline {19.3}Noting with 5 Senses (with video)}{108}{section.19.3}%
+\contentsline {section}{\numberline {19.4}Noting with 6 Senses}{109}{section.19.4}%
+\contentsline {chapter}{\numberline {A}Glossary}{111}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Jhana and Ñana}{113}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Five phases of concentration}{113}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Two techniques for developing concentration}{116}{section.B.2}%
+\contentsline {subsection}{\numberline {B.2.1}Counting the breath from one to ten}{116}{subsection.B.2.1}%
+\contentsline {subsection}{\numberline {B.2.2}Kasina practice}{116}{subsection.B.2.2}%
+\contentsline {section}{\numberline {B.3}Jhana, ñana, and Path}{117}{section.B.3}%

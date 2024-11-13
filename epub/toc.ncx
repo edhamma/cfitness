@@ -1,0 +1,362 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="kenneth-folk-contemplative-fitness"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Contemplative Fitness</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Contemplative Fitness (unfinished)</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="front-intro.xhtml" />  
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Introduction</text>
+        </navLabel>
+        <content src="front-intro.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>The physical fitness revolution</text>
+        </navLabel>
+        <content src="front-intro.xhtml#the-physical-fitness-revolution" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint5" playOrder="4">
+      <navLabel>
+        <text>Book One: Kenneth’s Story</text>
+      </navLabel>
+      <content src="main-1.xhtml" />  
+      <navPoint id="navPoint6" playOrder="4">
+        <navLabel>
+          <text>Book One: Kenneth’s Story</text>
+        </navLabel>
+        <content src="main-1.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint7" playOrder="5">
+        <navLabel>
+          <text>The Setup</text>
+        </navLabel>
+        <content src="main-1.xhtml#the-setup" />  
+      </navPoint>
+      <navPoint id="navPoint8" playOrder="6">
+        <navLabel>
+          <text>Bill Hamilton</text>
+        </navLabel>
+        <content src="main-1.xhtml#bill-hamilton" />  
+      </navPoint>
+      <navPoint id="navPoint9" playOrder="7">
+        <navLabel>
+          <text>First Long Retreats</text>
+        </navLabel>
+        <content src="main-1.xhtml#first-long-retreats" />  
+      </navPoint>
+      <navPoint id="navPoint10" playOrder="8">
+        <navLabel>
+          <text>Alaska</text>
+        </navLabel>
+        <content src="main-1.xhtml#alaska" />  
+      </navPoint>
+      <navPoint id="navPoint11" playOrder="9">
+        <navLabel>
+          <text>Deeper Into Jhana</text>
+        </navLabel>
+        <content src="main-1.xhtml#deeper-into-jhana" />  
+      </navPoint>
+      <navPoint id="navPoint12" playOrder="10">
+        <navLabel>
+          <text>Third Path</text>
+        </navLabel>
+        <content src="main-1.xhtml#third-path" />  
+      </navPoint>
+      <navPoint id="navPoint13" playOrder="11">
+        <navLabel>
+          <text>Disillusionment</text>
+        </navLabel>
+        <content src="main-1.xhtml#disillusionment" />  
+      </navPoint>
+      <navPoint id="navPoint14" playOrder="12">
+        <navLabel>
+          <text>Off the Ride</text>
+        </navLabel>
+        <content src="main-1.xhtml#off-the-ride" />  
+      </navPoint>
+      <navPoint id="navPoint15" playOrder="13">
+        <navLabel>
+          <text>Full Circle</text>
+        </navLabel>
+        <content src="main-1.xhtml#full-circle" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint16" playOrder="14">
+      <navLabel>
+        <text>Book Two: Theory</text>
+      </navLabel>
+      <content src="main-2.xhtml" />  
+      <navPoint id="navPoint17" playOrder="14">
+        <navLabel>
+          <text>Book Two: Theory</text>
+        </navLabel>
+        <content src="main-2.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint18" playOrder="15">
+        <navLabel>
+          <text>Watering Down the Dharma</text>
+        </navLabel>
+        <content src="main-2.xhtml#watering-down-the-dharma" />  
+        <navPoint id="navPoint19" playOrder="15">
+          <navLabel>
+            <text>Watering Down the Dharma</text>
+          </navLabel>
+          <content src="main-2.xhtml#watering-down-the-dharma" />  
+        </navPoint>
+        <navPoint id="navPoint20" playOrder="16">
+          <navLabel>
+            <text>The Pragmatic Model of Arahatship</text>
+          </navLabel>
+          <content src="main-2.xhtml#the-pragmatic-model-of-arahatship" />  
+        </navPoint>
+        <navPoint id="navPoint21" playOrder="17">
+          <navLabel>
+            <text>The Saint Model of Arahatship</text>
+          </navLabel>
+          <content src="main-2.xhtml#the-saint-model-of-arahatship" />  
+        </navPoint>
+        <navPoint id="navPoint22" playOrder="18">
+          <navLabel>
+            <text>Comparing the models</text>
+          </navLabel>
+          <content src="main-2.xhtml#comparing-the-models" />  
+        </navPoint>
+        <navPoint id="navPoint23" playOrder="19">
+          <navLabel>
+            <text>The Hercules Effect: Why “watering down” a high standard might be a good idea</text>
+          </navLabel>
+          <content src="main-2.xhtml#the-hercules-effect-why-watering-down-a-high-standard-might-be-a-good-idea" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint24" playOrder="20">
+        <navLabel>
+          <text>Fluency with the the Ladder of Abstraction</text>
+        </navLabel>
+        <content src="main-2.xhtml#fluency-with-the-the-ladder-of-abstraction" />  
+      </navPoint>
+      <navPoint id="navPoint25" playOrder="21">
+        <navLabel>
+          <text>The three speed transmission</text>
+        </navLabel>
+        <content src="main-2.xhtml#the-three-speed-transmission" />  
+      </navPoint>
+      <navPoint id="navPoint26" playOrder="22">
+        <navLabel>
+          <text>The progress of insight map</text>
+        </navLabel>
+        <content src="main-2.xhtml#the-progress-of-insight-map" />  
+        <navPoint id="navPoint27" playOrder="22">
+          <navLabel>
+            <text>The progress of insight map</text>
+          </navLabel>
+          <content src="main-2.xhtml#the-progress-of-insight-map" />  
+        </navPoint>
+        <navPoint id="navPoint28" playOrder="23">
+          <navLabel>
+            <text>Knowledge of Mind and Body (Stage 1)</text>
+          </navLabel>
+          <content src="main-2.xhtml#knowledge-of-mind-and-body-stage-1" />  
+        </navPoint>
+        <navPoint id="navPoint29" playOrder="24">
+          <navLabel>
+            <text>Knowledge of Cause and Effect (Stage 2)</text>
+          </navLabel>
+          <content src="main-2.xhtml#knowledge-of-cause-and-effect-stage-2" />  
+        </navPoint>
+        <navPoint id="navPoint30" playOrder="25">
+          <navLabel>
+            <text>Knowledge of the Three Characteristics (Stage 3)</text>
+          </navLabel>
+          <content src="main-2.xhtml#knowledge-of-the-three-characteristics-stage-3" />  
+        </navPoint>
+        <navPoint id="navPoint31" playOrder="26">
+          <navLabel>
+            <text>Knowledge of the Arising and Passing away of Phenomena (Stage 4)</text>
+          </navLabel>
+          <content src="main-2.xhtml#knowledge-of-the-arising-and-passing-away-of-phenomena-stage-4" />  
+        </navPoint>
+        <navPoint id="navPoint32" playOrder="27">
+          <navLabel>
+            <text>Knowledge of Dissolution (Stage 5)</text>
+          </navLabel>
+          <content src="main-2.xhtml#knowledge-of-dissolution-stage-5" />  
+        </navPoint>
+        <navPoint id="navPoint33" playOrder="28">
+          <navLabel>
+            <text>The Dukkha Ñanas</text>
+          </navLabel>
+          <content src="main-2.xhtml#the-dukkha-nanas" />  
+        </navPoint>
+        <navPoint id="navPoint34" playOrder="29">
+          <navLabel>
+            <text>Knowledge of Equanimity (Stage 11)</text>
+          </navLabel>
+          <content src="main-2.xhtml#knowledge-of-equanimity-stage-11" />  
+        </navPoint>
+        <navPoint id="navPoint35" playOrder="30">
+          <navLabel>
+            <text>Path and Fruition</text>
+          </navLabel>
+          <content src="main-2.xhtml#path-and-fruition" />  
+        </navPoint>
+        <navPoint id="navPoint36" playOrder="31">
+          <navLabel>
+            <text>Knowledge of Review</text>
+          </navLabel>
+          <content src="main-2.xhtml#knowledge-of-review" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint37" playOrder="32">
+        <navLabel>
+          <text>The map is not the territory</text>
+        </navLabel>
+        <content src="main-2.xhtml#the-map-is-not-the-territory" />  
+      </navPoint>
+      <navPoint id="navPoint38" playOrder="33">
+        <navLabel>
+          <text>Concentration, Mindfulness, and Investigation</text>
+        </navLabel>
+        <content src="main-2.xhtml#concentration-mindfulness-and-investigation" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint39" playOrder="34">
+      <navLabel>
+        <text>Book Three: Method</text>
+      </navLabel>
+      <content src="main-3.xhtml" />  
+      <navPoint id="navPoint40" playOrder="34">
+        <navLabel>
+          <text>Book Three: Method</text>
+        </navLabel>
+        <content src="main-3.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint41" playOrder="35">
+        <navLabel>
+          <text>Quick Start Guide</text>
+        </navLabel>
+        <content src="main-3.xhtml#quick-start-guide" />  
+      </navPoint>
+      <navPoint id="navPoint42" playOrder="36">
+        <navLabel>
+          <text>Introduction to the Method</text>
+        </navLabel>
+        <content src="main-3.xhtml#introduction-to-the-method" />  
+      </navPoint>
+      <navPoint id="navPoint43" playOrder="37">
+        <navLabel>
+          <text>Course Objectives</text>
+        </navLabel>
+        <content src="main-3.xhtml#course-objectives" />  
+      </navPoint>
+      <navPoint id="navPoint44" playOrder="38">
+        <navLabel>
+          <text>Unit 1: Get Stream Entry</text>
+        </navLabel>
+        <content src="main-3.xhtml#unit-1-get-stream-entry" />  
+        <navPoint id="navPoint45" playOrder="38">
+          <navLabel>
+            <text>Unit 1: Get Stream Entry</text>
+          </navLabel>
+          <content src="main-3.xhtml#unit-1-get-stream-entry" />  
+        </navPoint>
+        <navPoint id="navPoint46" playOrder="39">
+          <navLabel>
+            <text>Introduction to Stream Entry</text>
+          </navLabel>
+          <content src="main-3.xhtml#introduction-to-stream-entry" />  
+        </navPoint>
+        <navPoint id="navPoint47" playOrder="40">
+          <navLabel>
+            <text>Introduction to Noting Meditation</text>
+          </navLabel>
+          <content src="main-3.xhtml#introduction-to-noting-meditation" />  
+        </navPoint>
+        <navPoint id="navPoint48" playOrder="41">
+          <navLabel>
+            <text>Noting with 5 Senses (with video)</text>
+          </navLabel>
+          <content src="main-3.xhtml#noting-with-5-senses-with-video" />  
+        </navPoint>
+        <navPoint id="navPoint49" playOrder="42">
+          <navLabel>
+            <text>Noting with 6 Senses</text>
+          </navLabel>
+          <content src="main-3.xhtml#noting-with-6-senses" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint50" playOrder="43">
+      <navLabel>
+        <text>Glossary</text>
+      </navLabel>
+      <content src="back-glossary.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint51" playOrder="44">
+      <navLabel>
+        <text>Jhana and Ñana</text>
+      </navLabel>
+      <content src="back-jhana-nana.xhtml" />  
+      <navPoint id="navPoint52" playOrder="44">
+        <navLabel>
+          <text>Jhana and Ñana</text>
+        </navLabel>
+        <content src="back-jhana-nana.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint53" playOrder="45">
+        <navLabel>
+          <text>Five phases of concentration</text>
+        </navLabel>
+        <content src="back-jhana-nana.xhtml#five-phases-of-concentration" />  
+      </navPoint>
+      <navPoint id="navPoint54" playOrder="46">
+        <navLabel>
+          <text>Two techniques for developing concentration</text>
+        </navLabel>
+        <content src="back-jhana-nana.xhtml#two-techniques-for-developing-concentration" />  
+        <navPoint id="navPoint55" playOrder="46">
+          <navLabel>
+            <text>Two techniques for developing concentration</text>
+          </navLabel>
+          <content src="back-jhana-nana.xhtml#two-techniques-for-developing-concentration" />  
+        </navPoint>
+        <navPoint id="navPoint56" playOrder="47">
+          <navLabel>
+            <text>Counting the breath from one to ten</text>
+          </navLabel>
+          <content src="back-jhana-nana.xhtml#counting-the-breath-from-one-to-ten" />  
+        </navPoint>
+        <navPoint id="navPoint57" playOrder="48">
+          <navLabel>
+            <text>Kasina practice</text>
+          </navLabel>
+          <content src="back-jhana-nana.xhtml#kasina-practice" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint58" playOrder="49">
+        <navLabel>
+          <text>Jhana, ñana, and Path</text>
+        </navLabel>
+        <content src="back-jhana-nana.xhtml#jhana-nana-and-path" />  
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
