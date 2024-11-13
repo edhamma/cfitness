@@ -1642,7 +1642,7 @@ noticeable shift from this first difficult stage, in which meditation
 becomes effortless again. For some people, this will be a spectacular
 event, with lights, unitive experiences, and life-changing shifts in
 perspective… for others, it will be much less dramatic; they’ll simply
-that they are enjoying their meditation again. This is a good example of
+say they are enjoying their meditation again. This is a good example of
 how the overall map holds while individual expression of the
 developmental phases varies. After some days or weeks in this new, easy
 and pleasant phase, meditation gets hard yet again. Then it gets easy
