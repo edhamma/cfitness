@@ -103,7 +103,7 @@ is which in order to avoid confusion.
 Depending on his or her interests, the student may or may not decide to
 follow the method all the way through. I recommend stream entry, as
 described in the chapter by that name, as a wonderful goal for any
-meditator. For a more casual meditator, simply reading the following
+meditator. For a more casual meditator, simply reading the above
 chapter on the three speed transmission and the techniques compendium in
 the appendix may be enough. For the student interested in mapping the
 experiences of the contemplative path and gaining facility with altered
