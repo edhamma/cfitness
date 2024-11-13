@@ -1719,7 +1719,7 @@ inhabitants of this planet, the ability to balance mindfulness and
 concentration is probably unique to humans.
 
 It is a truism in Buddhist theory that concentration alone will never
-lead to awakening. In the Mahasi tradition, monks can wax positively
+lead to awakening. In the Mahasi tradition, monks can be positively
 derisive about people who sit around for hours in highly concentrated
 states but never investigate the objects of attention. These theoretical
 concentration junkies are objects of mild pity. So, we must be careful
